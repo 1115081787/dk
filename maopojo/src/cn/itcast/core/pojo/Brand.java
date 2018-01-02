@@ -1,4 +1,4 @@
-package cn.itcast.core.pojo;
+package com.baidu.pojo;
 
 import java.io.Serializable;
 import javax.persistence.Column;
