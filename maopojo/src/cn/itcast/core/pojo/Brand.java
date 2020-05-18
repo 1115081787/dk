@@ -20,7 +20,7 @@ public class Brand implements Serializable {
     /**
      * 名称
      */
-    @Column(name = "name")
+    @Column(name = "name11")
     private String name;
 
     /**
